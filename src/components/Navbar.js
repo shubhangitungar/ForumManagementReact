@@ -99,7 +99,7 @@ function Navbar() {
 
            <Form inline className='navbar-form'  onSubmit={searchContent}> 
            {/* <FormGroup controlId="formInlineName"> */}
-           <div class="input-group">
+           <div className="input-group">
                 <FormControl type="text"  name="searchval"  placeholder="Search" className='nav-links'  />{' '}
            
               {/* {button && <Button type="submit" buttonStyle='btn--outline' >Search</Button>} */}
