@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ForumManagementReact'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_559E262C34744DF990E373092CF88093 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_419D634B222144D7AE20637C813A40AF }}
           package: .
