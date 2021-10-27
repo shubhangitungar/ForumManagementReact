@@ -3,12 +3,33 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "node-sass": "^4.14.1",
+    "popper.js": "^1.16.1",
     "react": "^17.0.2",
+    "react-alert": "^7.0.3",
+    "react-alert-template-basic": "^1.0.2",
+    "react-bootstrap": "^1.6.3",
+    "react-clap-button": "^1.2.12",
+    "react-datepicker": "^4.2.1",
+    "react-datetime-bootstrap": "^1.4.7",
     "react-dom": "^17.0.2",
+    "react-moment": "^1.1.1",
+    "react-motion": "^0.5.2",
+    "react-redux": "^7.2.5",
+    "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
+    "react-search-field": "^2.0.1",
+    "reactstrap": "^8.10.0",
+    "redux": "^4.1.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -34,5 +55,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/node": "^7.15.4",
+    "@babel/preset-env": "^7.15.6",
+    "nodemon": "^2.0.13"
   }
 }
